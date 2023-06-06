@@ -2,6 +2,7 @@
 
 console.log("V 01");
 console.log("V 02");
+console.log("V 03");
 
 // git config --global user.email "example@example.com"
 // treba biti isto kao github name (preporuka je, ne mora)
