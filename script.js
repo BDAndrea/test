@@ -1,10 +1,7 @@
 "use strict";
 
-console.log("V 01");
-console.log("V 02");
-console.log("V 03");
-console.log("V 05");
-console.log("sve je updateano");
+console.log("V 11");
+console.log("odradili smo ispravak greske");
 
 // git config --global user.email "example@example.com"
 // treba biti isto kao github name (preporuka je, ne mora)
